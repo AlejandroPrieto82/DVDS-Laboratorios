@@ -40,3 +40,5 @@ Subir los archivos que estan en el area de preparacion, en este caso el comando 
 ### 9.
 ![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/9.1.png)
 ![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/9.2.png)
+
+#################MUCHAS GRACIAS
