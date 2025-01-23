@@ -1,5 +1,5 @@
-#INTEGRANTE:
-##	- Samuel Alejandro Prieto Reyes
+# INTEGRANTE:
+## - Samuel Alejandro Prieto Reyes
 
 ### 1.
 ![](https://github.com/AlejandroPrieto82/DVDS-Laboratorios/blob/master/1.png)
@@ -9,17 +9,15 @@
 
 ### 3.
 
-##Git add: 
-Agrega los archivos al area de preparacion, area donde si mandamos un commit, este va a enviar los archivos subidos a esa area. 
+## Git add:
+Agrega los archivos al área de preparación, área donde, si mandamos un commit, estos archivos se envían a esa área.
 
-###### https://www.atlassian.com/es/git/tutorials/saving-changes 
- 
+###### [Más información sobre Git add](https://www.atlassian.com/es/git/tutorials/saving-changes)
 
-##Git commint –m “Mensaje”: 
-Subir los archivos que estan en el area de preparacion, en este caso el comando –m nos permite enviar un mensaje. Usualmente es diciendo la fecha y hora o que es lo que se sube o cambios hechos, para que lso demas sepan que es esto. 
- 
-###### https://www.atlassian.com/es/git/tutorials/saving-changes/git-commit 
+## Git commit –m “Mensaje”:
+Sube los archivos que están en el área de preparación. En este caso, el comando `–m` nos permite enviar un mensaje. Usualmente es para decir la fecha y hora o los cambios hechos, para que los demás sepan qué se ha subido.
 
+###### [Más información sobre Git commit](https://www.atlassian.com/es/git/tutorials/saving-changes/git-commit)
 
 ### 4.
 ![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/4.png)
@@ -41,5 +39,4 @@ Subir los archivos que estan en el area de preparacion, en este caso el comando 
 ![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/9.1.png)
 ![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/9.2.png)
 
-
-#MUCHAS GRACIAS
+# MUCHAS GRACIAS
