@@ -2,6 +2,7 @@
 ##	- Samuel Alejandro Prieto Reyes
 
 ### 1.
+	![](https://github.com/AlejandroPrieto82/DVDS-Laboratorios/blob/master/1.png)
 
 ### 2.
 
