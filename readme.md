@@ -5,6 +5,7 @@
 ![](https://github.com/AlejandroPrieto82/DVDS-Laboratorios/blob/master/1.png)
 
 ### 2.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/2.png)
 
 ### 3.
 
@@ -21,13 +22,21 @@ Subir los archivos que estan en el area de preparacion, en este caso el comando 
 
 
 ### 4.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/4.png)
 
 ### 5.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/5.1.png)
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/5.2.png)
 
 ### 6.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/6.png)
 
 ### 7.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/7.png)
 
 ### 8.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/8.png)
 
 ### 9.
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/9.1.png)
+![](https://github.com/AlejandroPrieto82/Laboratorios-CVDS/blob/master/9.2.png)
